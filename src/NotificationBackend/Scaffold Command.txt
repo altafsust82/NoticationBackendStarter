@@ -1,0 +1,1 @@
+﻿Scaffold-DbContext "Server=ALTAF-ASUS;Database=Notif;Trusted_Connection=false; User Id=CE; Password=CE1234" Microsoft.EntityFrameworkCore.SqlServer -OutputDir DAL/NotificationEntities -f
